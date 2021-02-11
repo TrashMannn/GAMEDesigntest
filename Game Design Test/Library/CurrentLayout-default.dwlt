@@ -219,7 +219,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 92
+=======
+  controlID: 54
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +248,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 93
+=======
+  controlID: 55
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -350,9 +358,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 72330000
     m_LastClickedID: 13170
     m_ExpandedIDs: 000000005233000068330000
+=======
+    m_SelectedIDs: 84340000
+    m_LastClickedID: 13444
+    m_ExpandedIDs: 00000000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -380,7 +394,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -503,9 +517,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
       m_SelectedIDs: a6330000
       m_LastClickedID: 13222
       m_ExpandedIDs: 3ee8ffff98f3ffff7ef9ffff76fbffff
+=======
+      m_SelectedIDs: a0f7ffff
+      m_LastClickedID: -2144
+      m_ExpandedIDs: b2f7ffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -565,9 +585,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: 2.613286, y: -0.10151786, z: -0.6313267}
     speed: 2
     m_Value: {x: 2.2898731, y: -0.023473777, z: -0.5961068}
+=======
+    m_Target: {x: 0.27132002, y: 1.4144781, z: -24.385742}
+    speed: 2
+    m_Value: {x: 0.27132002, y: 1.4144781, z: -24.385742}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -617,9 +643,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< Updated upstream
     m_Target: 8.184098
     speed: 2
     m_Value: 7.8316727
+=======
+    m_Target: 3.2462945
+    speed: 2
+    m_Value: 3.1065018
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 1
     speed: 2
